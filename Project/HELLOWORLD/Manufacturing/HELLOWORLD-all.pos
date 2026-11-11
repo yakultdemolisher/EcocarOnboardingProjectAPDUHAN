@@ -1,0 +1,38 @@
+### Footprint positions - created on 2026-10-29T21:26:56 ###
+### Printed by KiCad version 10.0.6
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val             Package                               PosX       PosY       Rot  Side
+C1        22u             C_0805_2012Metric                  69.0000   -67.7500    0.0000  top
+C2        22u             C_0805_2012Metric                  75.0000   -73.0000   90.0000  top
+C3        10n             C_0603_1608Metric                  58.0000   -57.5000    0.0000  top
+C4        100n            C_0402_1005Metric                  54.5000   -61.7500   90.0000  top
+C5        100n            C_0402_1005Metric                  63.2500   -71.0000  180.0000  top
+C6        100n            C_0402_1005Metric                  66.5000   -62.5000  -90.0000  top
+C7        100n            C_0402_1005Metric                  58.0000   -59.0000    0.0000  top
+C8        10n             C_0402_1005Metric                  54.5000   -66.0000   90.0000  top
+C9        1u              C_0402_1005Metric                  54.5000   -70.0000  180.0000  top
+C10       1u              C_0402_1005Metric                  54.4800   -71.0000  180.0000  top
+C11       100n            C_0402_1005Metric                  58.4800   -71.0000    0.0000  top
+C12       10p             C_0402_1005Metric                  52.7500   -62.7700   90.0000  top
+C13       10p             C_0402_1005Metric                  52.7500   -64.7500   90.0000  top
+D1        RED             LED_0603_1608Metric                77.7500   -71.9625  -90.0000  top
+FB1       120R            L_0603_1608Metric                  56.2500   -70.7125  -90.0000  top
+H1        MountingHole    MountingHole_2.2mm_M2              46.2500   -80.7500    0.0000  top
+H2        MountingHole    MountingHole_2.2mm_M2              76.2500   -80.7500    0.0000  top
+H3        MountingHole    MountingHole_2.2mm_M2              76.2500   -52.2500    0.0000  top
+H4        MountingHole    MountingHole_2.2mm_M2              46.2500   -52.2500    0.0000  top
+J1        USB_B_Micro     USB_Micro-B_Wuerth_629105150521    75.2450   -63.7550   90.0000  top
+J2        Conn_01x04_Pin  PinHeader_1x04_P2.54mm_Vertical    58.5600   -51.2500  -90.0000  top
+J3        Conn_01x04_Pin  PinHeader_1x04_P2.54mm_Vertical    71.0600   -51.2500  -90.0000  top
+J4        Conn_01x04_Pin  PinHeader_1x04_P2.54mm_Vertical    56.1900   -82.0000   90.0000  top
+R1        1k5             R_0402_1005Metric                  77.5000   -69.5000  180.0000  top
+R2        10k             R_0402_1005Metric                  49.2500   -59.5000   90.0000  top
+R3        1k5             R_0402_1005Metric                  69.5000   -63.2500  -90.0000  top
+R4        1k5             R_0402_1005Metric                  59.2400   -75.5000  180.0000  top
+R5        1k5             R_0402_1005Metric                  61.7500   -75.5000    0.0000  top
+SW1       SW_SPDT         SW_SPDT_PCM12                      45.7500   -59.2500  -90.0000  top
+U1        AMS1117-3.3     SOT-223-3_TabPin2                  70.0000   -73.5000  -90.0000  top
+U2        STM32F103C8Tx   LQFP-48_7x7mm_P0.5mm               60.5000   -65.0000    0.0000  top
+Y1        16MHz           Crystal_SMD_3225-4Pin_3.2x2.5mm    50.4000   -63.5200  -90.0000  top
+## End
